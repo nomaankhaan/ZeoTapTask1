@@ -33,7 +33,7 @@ A flexible 3-tier application for determining user eligibility based on configur
 
 ```bash
   git clone https://github.com/nomaankhaan/ZeoTapTask1.git
-  cd Task 1
+  cd ZeoTapTask1
 ```
 
 2. Create and Activate Virtual Environment
